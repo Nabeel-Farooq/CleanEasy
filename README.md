@@ -2,25 +2,8 @@
 
 # CleanEasy
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org)
-[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
-[![Version](https://img.shields.io/badge/version-0.4.2-brightgreen)](https://github.com/yourusername/cleaneasy)
-[![Tests](https://img.shields.io/badge/tests-pytest-orange)](https://pytest.org)
 
 **CleanEasy** is a powerful, user-friendly Python library designed to simplify data cleaning and preprocessing for data scientists and analysts. Built on top of `pandas`, `numpy`, `scikit-learn`, and `nltk`, it provides a chainable API to handle common tasks like missing value imputation, outlier detection, text processing, date manipulation, and categorical encoding. With detailed logging and formatted output, CleanEasy makes data preparation intuitive, transparent, and visually appealing.
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact and Support](#contact-and-support)
-- [FAQ](#faq)
-- [Roadmap](#roadmap)
 
 ## Introduction
 
@@ -100,7 +83,7 @@ Key highlights:
 ### Step-by-Step Instructions
 1. **Clone or Download the Repository**
    ```bash
-   git clone https://github.com/CyberMatic-AmAn/cleaneasy.git
+   git clone https://github.com/Nabeel-Farooq/CleanEasy
    cd cleaneasy
    ```
 
@@ -352,7 +335,7 @@ We welcome contributions to `CleanEasy`! To contribute:
 
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/CyberMatic-AmAn/cleaneasy.git
+   git clone https://github.com/Nabeel-Farooq/CleanEasy
    cd cleaneasy
    ```
 
@@ -376,18 +359,6 @@ We welcome contributions to `CleanEasy`! To contribute:
 6. **Report Issues**
    - Use the GitHub Issues page to report bugs or suggest features.
    - Include detailed descriptions and reproduction steps.
-
-## License
-
-`CleanEasy` is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-## Contact and Support
-
-- **Email**: exehyper999@gmail.com
-- **GitHub Issues**: [github.com/CyberMatic-AmAn/cleaneasy/issues](https://github.com/CyberMatic-AmAn/cleaneasy/issues)
-- **Documentation**: [https://github.com/CyberMatic-AmAn/cleaneasy](https://github.com/CyberMatic-AmAn/cleaneasy)
-
-For support, open an issue on GitHub or contact the maintainer directly.
 
 ## FAQ
 
